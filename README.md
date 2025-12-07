@@ -188,7 +188,7 @@ replica-management-system/
 └── interval_X_results.csv      # Output: Results for each interval
 ```
 
-### File Descriptions
+### File Descriptions:
 
 | File | Purpose |
 |------|---------|
